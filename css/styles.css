@@ -30,7 +30,9 @@ body {
     text-decoration: none;
     list-style: none;
 }
-
+.portfol-link {
+    color: var(--color-navy-blue);
+}
 .link:hover,
 .link:focus {
     color: var(--color-ocean);

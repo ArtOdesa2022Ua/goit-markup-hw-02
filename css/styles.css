@@ -18,7 +18,6 @@
 /* ----------------- Body START----------------- */
 body {
     font-family: var(--primary-font);
-    color: #434455;
     background-color: #FFFFFF;
 }
 .nav-link {

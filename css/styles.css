@@ -287,13 +287,7 @@ body {
 .filter-btn {
 
 }
-.portfol {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--color-navy-blue);
-}
+
 .btn list {
     font-weight: 500;
     font-size: 20px;
@@ -326,10 +320,10 @@ body {
     color: var(--color-navy-blue);
 }
 
-.app {
+/* .app {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--color-slate);
-}
+} */
